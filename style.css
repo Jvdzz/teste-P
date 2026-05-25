@@ -3,3 +3,14 @@ background-color:#00FFFF ;
 
 
 }
+
+
+.Capa{
+    color:grey;
+    font-size: 20px;
+}
+
+#Carro{
+display: flex;
+padding-left: 200px;
+}
